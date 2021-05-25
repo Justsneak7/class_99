@@ -1,0 +1,4 @@
+Hi there this is my text file in python folder. 
+this is class 98.
+we aare doing python
+Todays topic is functions!
